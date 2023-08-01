@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/Abrham007/huddle-landing-page-with-single-introductory-section-master.git)
+- Live Site URL: [live site URL](https://abrham007.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
